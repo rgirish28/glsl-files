@@ -1,7 +1,5 @@
-Examples of some glsl shaders
+GLSL shaders 
 
-This is mostly for my own reference
-
-I've only tried this stuff on OSX.
-
-You need freeglut, glew, glm, freeimage, which can be installed by brew/port
+Requirements:
+  Freeglut, Glew, glm, FreeImage
+  
